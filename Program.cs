@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace FebonaciSeries;
+namespace PerfectNumber;
 
 class Program
 {
     public static void Main(string[] args)
 
     {
-        FEboSer.FSeri();
+        PerNum.PerfeN();
     }
-
 }
