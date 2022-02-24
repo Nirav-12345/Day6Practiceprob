@@ -1,13 +1,11 @@
 ﻿using System;
 
-namespace FebonaciSeries;
+namespace ReverseAnumber;
 
 class Program
 {
     public static void Main(string[] args)
-
     {
-        FEboSer.FSeri();
+        RevNum.RNum();
     }
-
 }
