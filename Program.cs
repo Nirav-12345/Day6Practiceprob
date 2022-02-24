@@ -1,11 +1,12 @@
 ﻿using System;
 
-namespace ReverseAnumber;
+namespace StopWatch;
 
 class Program
 {
     public static void Main(string[] args)
+
     {
-        RevNum.RNum();
-    }
+        watch.Watch();
+   }
 }
